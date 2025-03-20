@@ -7,11 +7,11 @@ Este projeto contém um arquivo SQL com uma lista de exercícios da disciplina *
 - **Nome do arquivo**: `scriptListaExercícios.sql`
 - **Descrição**: Este arquivo contém uma série de exercícios práticos de consultas SQL, incluindo tanto as questões quanto suas respectivas respostas implementadas. Os exercícios abordam conceitos fundamentais de banco de dados relacionais, como criação de tabelas, inserção de dados e consultas utilizando comandos como `SELECT`, `JOIN`, `WHERE`, `GROUP BY`, entre outros.
 
-## Estrutura do Repositório
+## 📂 Estrutura do Repositório
 
 - `scriptListaExercícios.sql`: Arquivo principal com os exercícios e respostas.
 
-## Pré-requisitos
+## 🛠️ Pré-requisitos
 
 Para executar e testar o conteúdo deste repositório em sua máquina, você precisará do seguinte:
 
